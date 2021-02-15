@@ -1,0 +1,14 @@
+.service{
+	margin: 20px;
+	padding: 20px;
+	width: 25%;
+}
+
+.service__img{
+	border-radius: 200px;
+	margin-bottom: 20px;
+
+}
+
+.service__p{
+	font-size:12px ;

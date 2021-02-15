@@ -1,0 +1,10 @@
+.carousel__img{
+	display: block;
+	position: relative;
+}
+
+@media(max-width: 992px){
+  .carousel{
+  		height: 100%;
+  }
+}

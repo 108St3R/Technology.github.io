@@ -1,0 +1,115 @@
+.logo{
+}
+
+.contact{
+	margin-top: 15px;
+}
+.mail{
+	color: #0BD8F4;
+}
+.phone-number{
+	color: #0BD8F4;
+}
+
+.navbar_1{
+	background: black;
+}
+
+.nav-link{
+	cursor: pointer;
+}
+
+.nav__link-1{
+	border-top: 3px solid #DA5E37;
+	border-right: 1px dashed gray; 
+	opacity: 1;
+}
+.nav__link-1:hover{
+	/*background-color: #DA5E37;*/
+	opacity: 0.6;
+	transition: all 0.3 ease;
+}
+.nav__link-2{
+	border-top: 3px solid orange;
+	border-right: 1px dashed gray;
+	opacity: 1; 
+}
+.nav__link-2:hover{
+	/*background-color: orange;*/
+	opacity: 0.6;
+	transition: all 0.3 ease;
+}
+.nav__link-3{
+	border-top: 3px solid #4CDD7D;
+	border-right: 1px dashed gray;
+	opacity: 1; 
+}
+.nav__link-3:hover{
+	/*background-color: #4CDD7D;*/
+	opacity: 0.6;
+	transition: all 0.3 ease;
+}
+.nav__link-4{
+	border-top: 3px solid yellow;
+	border-right: 1px dashed gray;
+	opacity: 1;
+}
+.nav__link-4:hover{
+	/*background-color:yellow;*/
+	opacity: 0.6;
+	transition: all 0.3 ease;
+}
+.nav__link-5{
+	border-top: 3px solid #4499CC;
+	border-right: 1px dashed gray;
+	opacity: 1;
+}
+.nav__link-5:hover{
+	/*background-color: #4499CC ;*/
+	opacity: 0.6;
+	transition: all 0.3 ease;
+}
+.nav__link-6{
+	border-top: 3px solid #19455E;
+	border-right: 1px dashed gray;
+	opacity: 1;
+}
+.nav__link-6:hover{
+	/*background-color: #19455E;*/
+	opacity: 0.6;
+	transition: all 0.3 ease;
+}
+.nav__link-7{
+	border-top: 3px solid #C4AEE9;
+	border-right: 1px dashed gray;
+	opacity: 1;
+}
+.nav__link-7:hover{
+	/*background-color:#C4AEE9 ;*/
+	opacity: 0.6;
+	transition: all 0.3 ease;
+}
+.nav__link-8{
+	border-top: 3px solid #AF22B1;
+	border-right: 1px dashed gray;
+	opacity: 1;
+}
+.nav__link-8:hover{
+	/*background-color: #AF22B1;*/
+	opacity: 0.6;
+	transition: all 0.3 ease;
+}
+.nav__link-9{
+	border-top: 3px solid pink;
+}
+.nav__link-9:hover{
+	/*background-color: pink;*/
+	opacity: 0.6;
+	transition: all 0.3 ease;
+}
+
+@media(max-width: 400px){
+	.top{
+		display: none;
+	}
+}

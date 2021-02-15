@@ -1,0 +1,14 @@
+.counters {
+	font-family: 'Orbitron', sans-serif;
+	font-size: 30px;
+  	background: #fff9;
+  	color: #9f9f9f;
+  	padding: 40px 20px;
+  	border-top: 3px #0f0f0f solid;
+  	border-bottom: 3px #0f0f0f solid;
+}
+
+
+.counters__block:hover{
+  box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+}

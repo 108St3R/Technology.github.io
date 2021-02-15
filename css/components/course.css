@@ -1,0 +1,79 @@
+.course{
+	background-color: #008c99;
+	background-image: url("../../img/png/island.png");
+	/*background-repeat: no-repeat;*/
+	background-attachment: fixed;
+	padding: 200px;
+}
+
+.course-slide img{
+	border-radius: 50px;
+}
+
+.course__title{
+  font-family: 'Inconsolata', sans-serif;
+   /*background: rgba(0, 0, 0, 0.5);*/
+   color: #f1f1f1
+}
+
+.course__h{
+    font-family: 'Inconsolata', sans-serif;
+
+  font-size: 40px;
+}
+
+@media(max-width: 600px){
+  .course__h{
+    font-size: 24px;
+  }
+}
+
+.course__p{
+    font-family: 'Inconsolata', sans-serif;
+
+  font-size: 26px;
+}
+
+@media(max-width: 600px){
+  .course__p{
+    font-size: 14px;
+  }
+}
+
+/*hex*/ 
+/*
+.hexagon {
+  font-family: 'Inconsolata', monotype;
+  width: 200px;
+  height: 114px;
+  background: #f0f3f3;
+  position: relative;
+  margin-top: 200px;
+  margin-left: 10px;
+}
+.hexagon::before {
+  content: "";
+  position: absolute;
+  top: -108px;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-left: 190px solid transparent;
+  border-right: 190px solid transparent;
+  border-bottom: 108px solid #f0f3f3;
+}
+.hexagon::after {
+  content: "";
+  position: absolute;
+  bottom: -108px;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-top: 108px solid #f0f3f3;
+}
+
+.hexagon p{
+  font-family: 'Inconsolata', monotype;  
+}*/
